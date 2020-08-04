@@ -22,6 +22,5 @@ class Customer
     # Meal.all.select do
 
 end
-    end
 
 end
