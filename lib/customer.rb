@@ -19,8 +19,8 @@ class Customer
   end
 
   def meals
+    @@all
 
-    Meal.length
 
   end
 
