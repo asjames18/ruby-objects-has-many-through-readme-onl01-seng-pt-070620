@@ -1,7 +1,9 @@
 class Waiter
   @@all = []
 
-  def initialize
+  def initialize(name, years)
+    @name = name
+    @years = years
     @@all << self
 
   end
