@@ -1,6 +1,6 @@
 class Customer
 
-  attr_accessor :name, :age
+  # attr_accessor :name, :age
 
 
   @@all = []
@@ -19,7 +19,7 @@ class Customer
 
   def new_meal(name, total, tip)
 
-    
+
     end
 
   end
