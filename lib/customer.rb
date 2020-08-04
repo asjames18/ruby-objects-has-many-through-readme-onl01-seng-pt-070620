@@ -19,7 +19,8 @@ class Customer
   end
 
   def new_meal(name, total, tip)
-    binding.pry
+
+    # binding.pry
 
     # Meal.all.select do
 
