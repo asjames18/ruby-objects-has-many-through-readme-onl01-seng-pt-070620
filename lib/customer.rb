@@ -7,7 +7,6 @@ class Customer
     @name = name
     @age = age
     @@all << self
-    @waiter = []
 
   end
 
