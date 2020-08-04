@@ -20,7 +20,7 @@ class Customer
 
   def meals
     @meals = []
-    meals.leangth
+    meals.length
 
   end
 
