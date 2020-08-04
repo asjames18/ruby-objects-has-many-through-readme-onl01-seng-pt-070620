@@ -22,7 +22,7 @@ class Customer
 
     Meal.all.select do
 
-
+pry
     end
 
 end
