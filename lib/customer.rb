@@ -1,3 +1,4 @@
+require 'pry'
 class Customer
 
   # attr_accessor :name, :age
@@ -18,6 +19,8 @@ class Customer
   end
 
   def new_meal(name, total, tip)
+
+    Meal.all.select do
 
 
     end
