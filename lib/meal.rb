@@ -1,7 +1,7 @@
 class Meal
   @@all = []
 
-  def initialize
+  def initialize(waiter, customer, total, tip)
     @@all << self
 
   end
