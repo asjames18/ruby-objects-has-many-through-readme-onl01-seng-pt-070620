@@ -16,6 +16,7 @@ class Customer
   end
 
   def new_meal(name, total, tip)
+    name
 
     # binding.pry
 
