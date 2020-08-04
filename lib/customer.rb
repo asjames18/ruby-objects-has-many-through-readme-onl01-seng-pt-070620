@@ -7,7 +7,7 @@ class Customer
     @age = age
     @@all << self
     @waiter = []
-    
+
   end
 
   def self.all
