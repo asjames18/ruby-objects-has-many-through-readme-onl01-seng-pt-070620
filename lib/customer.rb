@@ -19,6 +19,7 @@ class Customer
   end
 
   def meals
+    @meals = []
 
   end
 
