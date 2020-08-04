@@ -19,7 +19,7 @@ class Customer
   end
 
   def meals
-    self.meal
+    
 
 
   end
