@@ -8,6 +8,7 @@ class Waiter
   def initialize(name, years)
     @name = name
     @years = years
+    @customer = customer
     @@all << self
   end
 
