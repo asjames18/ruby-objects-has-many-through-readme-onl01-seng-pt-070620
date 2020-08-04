@@ -23,6 +23,7 @@ class Customer
     Meal.all.select do
 
 binding.pry
+end
     end
 
 end
