@@ -19,7 +19,6 @@ class Customer
   end
 
   def meals
-
 pry
 
   end
